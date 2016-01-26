@@ -1,1 +1,1 @@
-web: java -cp target/classes:target/dependency/WEB-INF/lib/* jp.kk_brain.smphone.glassfish.Bootstrap
+web: java -cp target/classes;target/dependency/WEB-INF/lib/* jp.kk_brain.smphone.glassfish.Bootstrap
