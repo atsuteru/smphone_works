@@ -48,12 +48,28 @@
   		<scope>provided</scope>
   	</dependency>
   	<dependency>
+  		<groupId>com.iciql</groupId>
+  		<artifactId>iciql</artifactId>
+  		<version>1.6.5</version>
+  	</dependency>
+    <dependency>
+      <groupId>com.h2database</groupId>
+	  <artifactId>h2</artifactId>
+      <version>1.4.191</version>
+    </dependency>
+  	<dependency>
   		<groupId>jp.kk_brain.smphone</groupId>
   		<artifactId>smphone_bootstrap</artifactId>
   		<version>1.0.0</version>
   	</dependency>
   </dependencies>
   <repositories>
+    <repository>
+      <id>com.iciql</id>
+      <name>Iciql</name>
+      <url>http://gitblit.github.io/iciql/maven/</url>
+      <layout>default</layout>
+    </repository>
     <repository>
       <id>github</id>
       <url>http://http://atsuteru.github.io/mvn-repo/</url>
