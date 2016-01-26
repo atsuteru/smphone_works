@@ -1,1 +1,1 @@
-java -cp "target/classes;target/smphone_works-0.0.1/WEB-INF/lib/*" jp.kk_brain.smphone.glassfish.Bootstrap
+java -cp 'target/classes:target/smphone_works-0.0.1/WEB-INF/lib/*' jp.kk_brain.smphone.glassfish.Bootstrap
