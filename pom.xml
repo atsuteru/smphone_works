@@ -60,7 +60,7 @@
   	<dependency>
   		<groupId>jp.kk_brain.smphone</groupId>
   		<artifactId>smphone_bootstrap</artifactId>
-  		<version>1.0.0</version>
+  		<version>1.0.1</version>
   	</dependency>
   </dependencies>
   <repositories>
